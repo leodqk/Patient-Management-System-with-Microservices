@@ -1275,7 +1275,7 @@
                           },
                           {
                             "name": "JWT_SECRET",
-                            "value": "Y2hhVEc3aHJnb0hYTzMyZ2ZqVkpiZ1RkZG93YWxrUkM="
+                            "value": "dGhpcy1pcy1hLXNlY3VyZS1rZXktdGhhdC1pcy1sb25nLWVub3VnaA=="
                           },
                           {
                             "name": "SPRING_DATASOURCE_URL",
